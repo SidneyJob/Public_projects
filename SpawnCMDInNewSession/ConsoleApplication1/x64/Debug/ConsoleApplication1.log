@@ -1,0 +1,3 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\user\Desktop\GIT\Public_projects\SpawnCMDInNewSession\ConsoleApplication1\ConsoleApplication1.cpp(268,46): warning C4267: инициализация: преобразование из "size_t" в "DWORD"; возможна потеря данных
+  ConsoleApplication1.vcxproj -> C:\Users\user\Desktop\GIT\Public_projects\SpawnCMDInNewSession\x64\Debug\ConsoleApplication1.exe

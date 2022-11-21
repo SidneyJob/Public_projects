@@ -1,0 +1,4 @@
+db - 1 bytes - char
+dw - 2 bytes - short
+dd - 4 bytes - int
+dq - 8 bytes - long
